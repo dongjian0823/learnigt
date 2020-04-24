@@ -4,5 +4,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
   (use "git reset HEAD <file>..." to unstage)
-#
-#       modified:   readme.txt
+My stupid boss still prefers SVN.
